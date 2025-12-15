@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋 I'm Venkataramana
 
-<!--
-**VENKATARAMANA-T/VENKATARAMANA-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 A passionate **Computer Science Engineering student** with strong problem-solving skills in **C++ and Python**, and hands-on experience in **MERN stack development**.I am eager to contribute to real-world projects, enhance my technical skills, and grow as a **Full-Stack Developer** in a dynamic and challenging environment.
 
-Here are some ideas to get you started:
+---
+### 👨‍💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,c" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react,nodejs,express,mysql,mongodb,redux,tailwind" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=api&logoColor=white" />
+  <img src="https://img.shields.io/badge/EJS-000000?style=for-the-badge&logo=ejs&logoColor=white" />
+</p>
+
+---
+
+
+### 🛠️ Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+- 📌 **GitHub Repositories:**  
+  👉 https://github.com/VENKATARAMANA-T?tab=repositories
+
+- 💼 **LinkedIn:**  
+  👉 https://www.linkedin.com/in/venkataramana-t-1b7478291/
+
+- 📧 **Contact Me:**  
+  👉 tvenkataramana805@gmail.com
+
+---
