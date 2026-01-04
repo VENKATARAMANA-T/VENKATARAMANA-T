@@ -38,7 +38,7 @@
 - 💼 **LinkedIn:**  
   👉 https://www.linkedin.com/in/venkataramana-t-1b7478291/
 
-- 🌐 **Portfolio:**
+- 🌐 **Portfolio:**  
   👉 https://venkataramana-t.github.io/Portfolio/
 
 - 📧 **Contact Me:**  
